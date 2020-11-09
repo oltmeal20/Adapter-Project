@@ -1,0 +1,9 @@
+Luke Oltmanns
+Adapter Project
+CompSci371
+
+Used the Adapter example provided for use from class to create a file reader program that reads 
+.txt files and .dat files. The program will not read any other types of files, and will notify the
+user if an invalid file is offered
+
+3 files have been created to read from. the proram can only read 2 of them
